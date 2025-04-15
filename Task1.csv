@@ -1,0 +1,21 @@
+Dish Name,Weekly Orders,Ingredients,Ingredient Cost,Avg Prep Time,Ingredient Waste
+Avocado Toast,6,"Avocado, Bread, Lemon",₹100,10 mins,Avocado - 30% unused
+Veg Burger,25,"Bun, Patty, Lettuce",₹60,8 mins,Lettuce - 15% unused
+Paneer Tikka,10,"Paneer, Spices, Onion",₹90,12 mins,Paneer - 10% unused
+Lemon Soda,3,"Lemon, Sugar, Soda",₹20,5 mins,Lemon - 40% unused
+Tomato Soup,17,"Tomato, Cream, Basil",₹50,12 mins,Basil - 10% unused
+Grilled Cheese,5,"Bread, Cheese, Butter",₹100,12 mins,Butter - 10% unused
+Fruit Salad,3,"Apple, Banana, Orange",₹30,14 mins,Orange - 25% unused
+Chicken Wrap,23,"Tortilla, Chicken, Lettuce",₹50,13 mins,Chicken - 10% unused
+Egg Sandwich,18,"Egg, Bread, Mayo",₹30,12 mins,Bread - 40% unused
+Mango Lassi,17,"Mango, Yogurt, Sugar",₹60,6 mins,Yogurt - 40% unused
+French Fries,10,"Potato, Salt, Oil",₹60,5 mins,Salt - 35% unused
+Garlic Bread,22,"Bread, Garlic, Butter",₹50,6 mins,Bread - 25% unused
+Club Sandwich,2,"Bread, Chicken, Tomato",₹50,9 mins,Chicken - 35% unused
+Pasta Alfredo,25,"Pasta, Cream, Cheese",₹80,12 mins,Pasta - 35% unused
+Caesar Salad,9,"Lettuce, Croutons, Parmesan",₹30,13 mins,Parmesan - 10% unused
+Masala Chai,2,"Tea, Milk, Spices",₹30,12 mins,Milk - 20% unused
+Veg Pulao,6,"Rice, Vegetables, Spices",₹90,5 mins,Spices - 10% unused
+Spring Rolls,26,"Wrap, Cabbage, Carrot",₹70,13 mins,Carrot - 40% unused
+Omelette,16,"Egg, Onion, Tomato",₹90,12 mins,Onion - 30% unused
+Banana Shake,3,"Banana, Milk, Sugar",₹100,9 mins,Banana - 20% unused
